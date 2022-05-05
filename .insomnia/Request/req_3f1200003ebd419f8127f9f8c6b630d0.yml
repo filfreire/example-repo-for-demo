@@ -1,0 +1,29 @@
+_id: req_3f1200003ebd419f8127f9f8c6b630d0
+type: Request
+parentId: wrk_121e29d428f54bafb9efac5c51e278d6
+modified: 1651763696738
+created: 1651763386540
+url: mockbin.org/request/anything
+name: My Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"hellothere": 123
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_42c4c217681047a9ab3e64de0ec22da9
+authentication: {}
+metaSortKey: -1651763386540
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

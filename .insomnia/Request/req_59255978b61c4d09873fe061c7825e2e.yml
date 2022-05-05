@@ -1,0 +1,21 @@
+_id: req_59255978b61c4d09873fe061c7825e2e
+type: Request
+parentId: fld_2ca6795d373f42f086bf6f51b42550ac
+modified: 1651763452580
+created: 1651763452580
+url: ""
+name: Really important request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651763452580
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
